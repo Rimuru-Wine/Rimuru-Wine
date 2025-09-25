@@ -47,7 +47,7 @@ A: Python 🐍 — simple, powerful, elegant.
 
 I’d love to learn and collaborate with others. If you’re working on beginner-friendly projects, feel free to reach out!  
 
-- [![telegram](https://img.shields.io/badge/Rimuru-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Rimaru_Wine)  
+- [![telegram](https://img.shields.io/badge/Rimuru-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Rimuru_Wine)  
 - [![gmail](https://img.shields.io/badge/TeamWine-Mail🍷-red?style=for-the-badge&logo=gmail)](mailto:teamwine.mail@gmail.com)  
 
 ---
